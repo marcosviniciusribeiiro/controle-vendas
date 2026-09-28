@@ -28,12 +28,6 @@ Durante o desenvolvimento deste projeto, pratiquei e aprimorei:
 ### Registro de Vendas  
 ![Tela de Registro de Vendas](imagens/registro_vendas.png)  
 
-### Atualização de Produtos  
-![Tela de Atualização de Produtos](imagens/atualizacao_vendas.png)  
-
-### Exclusão de Produtos  
-![Tela de Exclusão de Produtos](imagens/exclusao_produtos.png)  
-
 ## Como Executar o Projeto  
 1. Clone este repositório:  
    ```bash
