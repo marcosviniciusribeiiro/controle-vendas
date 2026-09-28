@@ -18,7 +18,21 @@ Durante o desenvolvimento deste projeto, pratiquei e aprimorei:
 - Criação de interfaces gráficas com Tkinter;  
 - Estruturação do código utilizando POO;  
 - Conexão e manipulação de dados em SQLite;  
-- Tratamento de erros com `try` e `except`.  
+- Tratamento de erros com `try` e `except`.
+
+## Demonstração
+
+### Cadastro de Produtos  
+![Tela de Cadastro de Produtos](imagens/cadastro_produtos.png)  
+
+### Registro de Vendas  
+![Tela de Registro de Vendas](imagens/registro_vendas.png)  
+
+### Atualização de Produtos  
+![Tela de Atualização de Produtos](imagens/atualizacao_vendas.png)  
+
+### Exclusão de Produtos  
+![Tela de Exclusão de Produtos](imagens/exclusao_produtos.png)  
 
 ## Como Executar o Projeto  
 1. Clone este repositório:  
